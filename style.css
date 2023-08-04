@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(img/background.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.img-box{
+    background-color: #19203ecc;
+    width: 250px;
+    height: 420px;
+    margin-top: 5rem;
+    border-radius: 1rem;
+}
+
+.img-box img{
+     
+    width: 150px;
+    height: 250px;
+    margin-left: 2.5rem;
+    margin-top: 1rem;
+    border-radius: 1.5rem;
+}
+.detail{
+    background-color: #19203ecc;
+    width: 800px;
+    height: 420px;
+    margin-top: 5rem;
+    border-radius: 1rem;
+}
+.mail{
+    text-decoration: none;
+    color: white;
+}
